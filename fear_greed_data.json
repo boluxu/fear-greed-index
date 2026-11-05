@@ -1,9 +1,14 @@
 [
   {
+    "value": "50",
+    "value_classification": "Neutral",
+    "timestamp": "1793836800",
+    "time_until_update": "63966"
+  },
+  {
     "value": "34",
     "value_classification": "Fear",
-    "timestamp": "1793750400",
-    "time_until_update": "65247"
+    "timestamp": "1793750400"
   },
   {
     "value": "26",
@@ -444,10 +449,5 @@
     "value": "30",
     "value_classification": "Fear",
     "timestamp": "1786147200"
-  },
-  {
-    "value": "29",
-    "value_classification": "Fear",
-    "timestamp": "1786060800"
   }
 ]
